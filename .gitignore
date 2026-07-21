@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+
+# Environment
+.env
+config.env
+
+# Logs
+*.log
+
+# Build
+dist/
+build/
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# IntelliJ
+.idea/
+
+# OS
+Thumbs.db
